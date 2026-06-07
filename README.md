@@ -1,0 +1,2 @@
+# case-conceptualization-skill
+以心理咨询师视角对来访者治疗记录进行个案概念化并提出指导建议
