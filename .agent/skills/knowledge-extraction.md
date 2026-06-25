@@ -3,7 +3,7 @@ name: knowledge-extraction
 description: 将心理学书籍的 PDF 或 OCR Markdown 提取为结构化 Markdown 读书笔记，供 case-conceptualization skill 使用。本 skill 由 repo 维护者使用，用于将原始书籍加工为 skills/ 目录下的标准化笔记。
 ---
 
-# 知识提取（Knowledge Extraction）
+# 知识梳理与提取（Knowledge Organization and Extraction）
 
 本 skill 用于将一本心理学/心理治疗相关书籍的原始内容（PDF 提取文本或 OCR Markdown）加工为结构化、可被 AI agent 检索和引用的 Markdown 读书笔记，输出到 `skills/<书籍名称>/` 目录下。
 
@@ -52,8 +52,8 @@ skills/<书籍名称>/
 根据章节内容的组织性和结构性，决定如何将连续章节合并到同一个文件中。原则：
 
 - **内容密度**：如果一章内容非常丰富（如详细介绍多个技能模块），可以单独成文件。
-- **主题关联**：同属一个主题模块的连续章节优先合并（如"评估与诊断"涵盖 3-4 章，合并为一个文件）。
-- **篇幅均衡**：每个文件的内容量大致均衡，避免某个文件过长或过短。
+- **主题关联**：同属一个主题模块的连续章节优先合并（如"评估与诊断"涵盖 3-4 章，合并为一个文件）。章节内容或流派有所相关，值得比较阅读的（如“第2章精神分析”与“第3章阿德勒”，可以合并为一个文件）。
+- **篇幅均衡**：文件中每个章节的内容量大致均衡，避免某个章节过长或过短。但如果章节有特殊含义，或特殊需求，也可以破例较长或较短。
 - **参考已有范例**：可以参考 `skills/Counseling and Psychotherapy Theories in Context and Practice/` 的文件拆分思路，但不要照搬其内部结构。
 
 ### 步骤 3：逐文件提取内容
