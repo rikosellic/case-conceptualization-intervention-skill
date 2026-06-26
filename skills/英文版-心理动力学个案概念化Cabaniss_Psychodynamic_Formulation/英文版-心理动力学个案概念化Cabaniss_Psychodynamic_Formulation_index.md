@@ -1,88 +1,87 @@
 # 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_index
 
-来源：`output/markdown/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
+来源：`skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
 
-原书：Deborah L. Cabaniss 等，*Psychodynamic Formulation*。
+原书：Deborah L. Cabaniss, Sabrina Cherry, Carolyn J. Douglas, Ruth L. Graver & Anna R. Schwartz, *Psychodynamic Formulation*, Wiley-Blackwell, 2013。
 
-用途：供 agent 使用中文快速查询心理动力学个案概念化。原书为英文，本提取文件全部用中文整理，不逐段翻译，而是按原书的教学框架提取核心概念、操作步骤、评估维度和临床应用。
+用途：供 agent 使用中文快速查询心理动力学个案概念化（Psychodynamic Formulation）的完整方法论——从描述功能、回顾发展史到使用组织性发展理念进行链接，再到不同临床场景的应用。本书是《Psychodynamic Psychotherapy: A Clinical Manual》的姊妹篇。
+
+说明：本书提出 DESCRIBE/REVIEW/LINK 三步法作为构建心理动力学个案概念化的核心方法。原书为英文，提取文件以中文整理，保留关键英文术语。各章节文件按原书 Part 划分，每个文件末尾包含"Agent 使用建议"。
 
 ## 文件导览
 
 ### 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_01_03.md
 
-覆盖 Part One，第 1 至第 3 章：心理动力学个案概念化是什么、如何使用、如何建构。
+覆盖 Part One，第 1 至第 3 章：**What is a Psychodynamic Formulation? / How do We Use Psychodynamic Formulations? / How do We Construct a Psychodynamic Formulation?**
 
 适合查询：
-
-- 心理动力学 formulation 的定义：关于来访者为何这样想、感受和行动的假设。
-- 为什么 formulation 必须同时考虑无意识、发展、遗传与环境。
-- formulation 如何指导治疗目标、治疗方式、治疗关系和技术选择。
-- DESCRIBE / REVIEW / LINK 三步法总览。
-- 如何提出 focus question，并避免过度笼统的解释。
+- 心理动力学个案概念化（Psychodynamic Formulation）的定义：关于来访者无意识想法和感受如何导致当前困难的假设
+- 与其他类型个案概念化（CBT、生物医学、家庭系统）的区别
+- "报告"与"概念化"的关键区别：概念化提供因果假设
+- formulation 作为"地图"的比喻：指导治疗推荐、目标设定、治疗策略和干预
+- 何时与来访者分享 formulation，何时仅作为临床医生的内部工具
+- DESCRIBE / REVIEW / LINK 三步法总览
+- 工作性个案概念化（working psychodynamic formulation）的概念：假设随治疗不断修订
 
 ### 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_04_08.md
 
-覆盖 Part Two DESCRIBE，第 4 至第 8 章：描述问题与模式。
+覆盖 Part Two DESCRIBE，第 4 至第 8 章及"Putting it Together"综合示例：**Self / Relationships / Adapting / Cognition / Work and Play**
 
 适合查询：
-
-- 如何描述自体功能：身份感、自尊、幻想、自尊威胁、调节策略。
-- 如何描述关系功能：信任、亲密、安全感、互惠、心理化、自我与他人表征。
-- 如何描述适应功能：防御机制、情绪管理、冲动控制、感觉调节。
-- 如何描述认知功能：现实检验、判断、决策、心理化、心理-mindedness。
-- 如何描述工作与玩乐：能力、满意度、持续性、灵活性、过度/不足投入。
+- DESCRIBE 阶段的核心任务：区分"问题（Problem）"与"人（Person）"
+- 五个功能领域的维度化描述框架：
+  - **自体（Self）**：自我感知（身份认同、自体幻想）与自尊调节（对自尊威胁的脆弱性、内部反应、利用他人调节自尊）
+  - **关系（Relationships）**：信任、自我与他人的感知、安全感、亲密、互惠性
+  - **适应（Adapting）**：防御机制（完整分类表）、情绪管理、冲动控制、感觉调节
+  - **认知（Cognition）**：一般认知能力、决策与问题解决、自我反思/心理-mindedness、心智化、判断力
+  - **工作与玩乐（Work and Play）**：与发展阶段/才能/限制的匹配度、满意度、自我照料是否充分、文化适应性
+- 每个领域的临床评估问题和访谈技巧
+- 意识与无意识模式的区分
 
 ### 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_09_12.md
 
-覆盖 Part Three REVIEW，第 9 至第 12 章：回顾发展史。
+覆盖 Part Three REVIEW，第 9 至第 12 章及"Putting it Together"综合示例：**Genetics and Prenatal Development / The Earliest Years / Middle Childhood / Later Childhood, Adolescence, and Adulthood**
 
 适合查询：
-
-- 如何收集发展史，而不是只记录事件时间线。
-- 遗传、气质、产前发展、家庭精神病史如何影响概念化。
-- 0-3 岁早期发展：信任、依恋、自体调节、照料者功能。
-- 3-6 岁中期儿童期：三人关系、竞争、性别/身份、道德发展。
-- 6 岁以后、青春期、成年期：自我功能、同伴关系、性、工作、亲密、独立。
-- 如何把发展史组织成临床有用的假设。
+- 发展史采集五大原则：包含先天与后天、关系是关键、创伤至关重要、时序相关、发展是终身的
+- 遗传与产前发展：精神疾病遗传性、气质类型（inhibited/uninhibited/sensation-seeking）、母体习惯与健康、早产/围产期脑损伤
+- 0-3岁最早期的关键发展任务：建立信任、形成安全依恋（secure/insecure-avoidant/insecure-ambivalent/insecure-disorganized）、发展客体恒常性、情绪调节
+- 3-6岁中期儿童期：三人关系（triadic relationship）、俄狄浦斯动力、认同与超我形成
+- 6-12岁后期儿童期：技能建构与自我功能、同伴关系
+- 青少年期：身份认同巩固、性别/性认同、认知情绪困难首次出现
+- 成年早期/中期/晚期：亲密关系、工作与生产力、老年丧失与意义
 
 ### 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_13_18.md
 
-覆盖 Part Four LINK，第 13 至第 18 章：把问题模式与发展史连接。
+覆盖 Part Four LINK，第 13 至第 18 章及"Putting it Together"综合示例：**Trauma / Early Cognitive and Emotional Difficulties / Conflict and Defense / Relationships with Others / The Development of the Self / Attachment**
 
 适合查询：
-
-- LINK 的目的：用发展理论把当前问题和生命史连接成动力学假设。
-- 创伤如何影响调节、关系、身份、信任和自体感。
-- 早期认知/情绪困难如何改变发展轨迹。
-- 冲突与防御如何解释症状、关系和选择。
-- 客体关系：早期关系模板如何在成人关系中重复。
-- 自体心理学：镜映、理想化、孪生感、自尊调节、羞耻和空虚。
-- 依恋理论：安全、回避、矛盾/焦虑、紊乱依恋如何影响成人模式。
+- LINK 的核心操作：聚焦 DESCRIBE 和 REVIEW、提出焦点问题（focus question）、选择组织性发展理念
+- 六种组织性发展理念：
+  - **创伤**：创伤如何影响自我体验、情感/冲动调节、依恋和适应功能
+  - **早期认知和情绪困难**：儿童/青少年期困难如何干扰发展；"不匹配"、突然中断、家族史等线索
+  - **冲突与防御**：自我心理学（ego psychology）框架，冲突→焦虑→防御→妥协形成，释出（uncovering）vs 支持（supporting）
+  - **与他人的关系**：客体关系理论（object relations theory），内化关系模板（templates）
+  - **自体的发展**：自体心理学（self psychology），镜映（mirroring）、理想化（idealization）、自体客体（selfobject）
+  - **依恋**：成人依恋类型（secure/dismissive-avoidant/preoccupied-anxious/disorganized）、依恋代际传递
 
 ### 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_19_22.md
 
-覆盖 Part Five，第 19 至第 22 章：临床应用。
+覆盖 Part Five，第 19 至第 22 章：**Psychodynamic Formulations in Acute Care Settings / Pharmacologic Treatment / Long-Term Psychodynamic Psychotherapy / Sharing Formulations with Our Patients**
 
 适合查询：
-
-- 急性照护场景中如何做简短 formulation。
-- 药物治疗中如何使用心理动力学 formulation。
-- 长程心理动力学治疗中如何随着治疗推进修正 formulation。
-- 如何向患者分享 formulation。
-- 分享 formulation 时如何选择时机、语言和深度。
-- 教育和督导中如何分阶段训练 formulation。
+- 急性照护场景（急诊室、住院病房、医疗/手术科室）中如何构建简短聚焦的 formulation
+- 精神药理学治疗中 formulation 的应用——理解患者对症状、药物、依从性和副作用的反应
+- 长程心理动力学治疗中 formulation 如何随治疗推进而修订
+- 如何向患者分享 formulation：时机、语言、评估反应
+- 分享 formulation 的治疗场景：治疗推荐、生命叙事构建、促进洞察、终止准备
+- 教育者附录：如何在培训项目中分阶段教学
 
 ## Agent 使用建议
 
-如果用户要“写心理动力学个案概念化”，优先读取 `_01_03`、`_04_08` 和 `_13_18`。
-
-如果用户要“整理来访者功能描述”，读取 `_04_08`。
-
-如果用户要“采集或组织发展史”，读取 `_09_12`。
-
-如果用户要“解释当前问题与早年经验的关系”，读取 `_13_18`。
-
-如果用户要“急诊/药物/长程治疗/如何告诉患者 formulation”，读取 `_19_22`。
-
-使用时注意：这些文件是临床知识提取和推理辅助，不能替代正式临床督导、伦理判断、危机评估、诊断或治疗责任。
-
+- **如用户要"写心理动力学个案概念化"**：优先读取 `_01_03` 了解方法论，`_04_08` 获取描述框架，`_13_18` 获取链接理论。
+- **如用户要"描述来访者功能"**：读取 `_04_08`，使用五领域维度化框架和评估问题。
+- **如果用户要"采集发展史"**：读取 `_09_12`，按发展阶段逐期探查。
+- **如果用户要"做动力学链接"**：读取 `_13_18`，扫描六种组织性理念，选择最适合来访者问题的理念。
+- **如果用户要在特殊场景使用**（急诊、药物、长程治疗）：读取 `_19_22`。
+- 本书的 formulation 语言应使用假设性措辞（"可能"、"或许"），而非确定性陈述。
