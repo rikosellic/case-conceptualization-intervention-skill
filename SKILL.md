@@ -1,5 +1,5 @@
 ---
-name: case-conceptualization
+name: case-conceptualization-intervention
 description: 当用户提供心理咨询记录、治疗记录、初访访谈、督导材料或个案报告草稿，并希望生成中文个案概念化报告、识别治疗师既往使用的干预技术、分析后续治疗难点、为治疗师提供干预指导时，使用本 skill。本 skill 以 skills/ 目录为唯一知识来源，采用三级知识读取体系（索引→章节文件→原文）；仅在涉及精确技术步骤、诊断措辞、脚本或表格等细节时进入 book/ 原文。用户传入 PDF 材料时，优先使用 tools/pdf-analyzer 提取内容。
 ---
 
