@@ -40,7 +40,7 @@
 
 **先天与后天（Nature and Nurture）**
 - 不是二者择一，而是二者皆有
-- Freud 称先天为"constitutional factors"，后天为"accidental factors"
+- Freud 称先天为"constitutional factors（本质因素）"，后天为"accidental factors（附属因素）"
 - 基因与环境相互作用的复杂性：基因塑造经验，反之亦然
 - formulation 必须同时考虑遗传、气质和环境因素
 
@@ -57,7 +57,8 @@
 - 可用于任何治疗设置、短期或长期治疗
 - 只要考虑无意识想法和感受的影响与发展，就是心理动力学概念化
 
-**工作性概念化（Working Psychodynamic Formulation）**
+**进行中的心理动力学个案概念化（Working Psychodynamic Formulation）**
+
 - 不是一次性完成的固定解释——假设需要不断检验和修正
 - DESCRIBE → REVIEW → LINK 的过程在治疗中反复进行
 - 随着新信息的出现（新历史、移情反应、梦境），formulation 持续演变
@@ -98,7 +99,7 @@ Formulation 是治疗的"地图"（map）。它指导每一个治疗环节——
 
 构建 formulation 的三个基本步骤——DESCRIBE（描述）、REVIEW（回顾）、LINK（链接）——是所有心理动力学个案概念化的核心方法。每个步骤都是必不可少的，在 Part Two 至 Part Four 中分别详细展开。
 
-### DESCRIBE / REVIEW / LINK 三步法
+### DESCRIBE（描述） / REVIEW（回顾） / LINK（联系） 三步法
 
 **第一步：DESCRIBE（描述主要问题与模式）**
 - 不只是主诉（chief complaint），而是来访者思考、感受和行为的**主要模式**
@@ -126,14 +127,14 @@ Formulation 是治疗的"地图"（map）。它指导每一个治疗环节——
   5. **发展是终身的**——不仅是早期里程碑
 - 涵盖从出生前（遗传、产前）到当下的所有发展阶段
 
-**第三步：LINK（使用组织性发展理念链接问题与历史）**
+**第三步：LINK（使用组织性发展理念联系问题与历史）**
 - 将问题/模式与发展史链接，形成纵向叙事
 - 六种**组织性发展理念（organizing ideas about development）**：
 
 | 理念 | 核心关注 | 章节 |
 |------|----------|------|
 | 创伤（Trauma） | 创伤如何影响功能 | Ch13 |
-| 早期认知和情绪困难（Early Cognitive and Emotional Difficulties） | 先天/早期困难如何干扰发展 | Ch14 |
+| 早期认知和情绪问题（Early Cognitive and Emotional Difficulties） | 先天/早期困难如何干扰发展 | Ch14 |
 | 冲突与防御（Conflict and Defense） | 无意识冲突如何形成妥协 | Ch15 |
 | 与他人的关系（Relationships with Others） | 内化的关系模板 | Ch16 |
 | 自体的发展（The Development of the Self） | 自体和自尊的发展 | Ch17 |
@@ -148,7 +149,7 @@ Formulation 是治疗的"地图"（map）。它指导每一个治疗环节——
 ## Agent 使用建议
 
 - **适用场景**：当 agent 需要理解心理动力学个案概念化的基本方法论，或需要向来访者/用户解释"为什么我们要这样做"时使用。
-- **可直接引用**：formulation 的定义（无意识假设）、三步法框架（DESCRIBE/REVIEW/LINK）、formulation 作为"地图"的比喻、报告 vs 概念化的区别、formulation 的五项功能。
+- **可直接引用**：formulation 的定义（无意识假设）、三步法框架（DESCRIBE描述/REVIEW回顾/LINK联系）、formulation 作为"地图"的比喻、报告 vs 概念化的区别、formulation 的五项功能。
 - **需要结合**：具体操作时需分别读取：
   - `_04_08_描述功能.md` 进行 DESCRIBE
   - `_09_12_回顾发展史.md` 进行 REVIEW
