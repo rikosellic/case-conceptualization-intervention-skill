@@ -1,6 +1,6 @@
-# case-conceptualization-intervention-skill
+# psychotherapist-skill
 
-以心理咨询师或督导师视角对来访者治疗记录进行个案概念化并提出干预指导建议的 AI Agent Skill。
+以心理咨询师或督导师的视角对来访者的治疗记录进行个案概念化并提出干预指导建议的 AI Agent Skill。
 
 ## 安装
 
