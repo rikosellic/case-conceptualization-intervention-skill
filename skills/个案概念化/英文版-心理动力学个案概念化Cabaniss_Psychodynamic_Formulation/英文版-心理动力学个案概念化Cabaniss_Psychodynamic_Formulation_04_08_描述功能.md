@@ -1,6 +1,6 @@
 # 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_04_08_描述功能
 
-来源：`skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
+来源：`./skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
 
 抽取范围：原书 Part Two DESCRIBE，第 4-8 章及"Putting it Together"综合示例，**Self / Relationships / Adapting / Cognition / Work and Play**。
 

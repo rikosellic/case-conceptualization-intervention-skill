@@ -1,6 +1,6 @@
 # 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_19_22_临床应用与实践
 
-来源：`skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
+来源：`./skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
 
 抽取范围：原书 Part Five，第 19-22 章 + Epilogue + Appendix，**Psychodynamic Formulations in Acute Care Settings / Pharmacologic Treatment / Long-Term Psychodynamic Psychotherapy / Sharing Formulations with Our Patients**。
 

@@ -1,6 +1,6 @@
 # DSM-5_SecIII_新兴测量与模型
 
-来源：`skills/DSM5中文版/book/DSM5中文版.md`
+来源：`./skills/DSM5中文版/book/DSM5中文版.md`
 抽取范围：第三部分（第721-790页），**Emerging Measures and Models**。
 用途：供 agent 了解 DSM-5 第三部分的评估量表、文化概念化工具、人格障碍替代模式和需要进一步研究的状况。
 

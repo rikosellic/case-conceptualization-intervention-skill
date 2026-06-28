@@ -1,6 +1,6 @@
 # DBT情绪调节手册（下）_03_人际效能技能
 
-来源：`skills/DBT情绪调节手册（下） (莱恩汉) (Z-Library)/book/DBT情绪调节手册（下） (莱恩汉) (Z-Library).md`
+来源：`./skills/DBT情绪调节手册（下） (莱恩汉) (Z-Library)/book/DBT情绪调节手册（下） (莱恩汉) (Z-Library).md`
 抽取范围：人际效能技能模块，**人际效能讲义 1-22a 及人际效能练习单 1-15**。
 用途：供 agent 查询 DBT 人际效能技能的目标设定、DEARMAN/GIVE/FAST 技能、建立与结束关系、辩证与认可及行为改变策略。
 

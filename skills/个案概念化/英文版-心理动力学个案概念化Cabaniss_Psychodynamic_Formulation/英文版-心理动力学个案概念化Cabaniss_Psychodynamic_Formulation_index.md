@@ -1,6 +1,6 @@
 # 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_index
 
-来源：`skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
+来源：`./skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
 
 原书：Deborah L. Cabaniss, Sabrina Cherry, Carolyn J. Douglas, Ruth L. Graver & Anna R. Schwartz, *Psychodynamic Formulation*, Wiley-Blackwell, 2013。
 

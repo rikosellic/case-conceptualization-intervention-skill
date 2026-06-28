@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_05_06_抑郁双相
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 抽取范围：第5章至第6章，**抑郁和自杀行为（Depression and Suicidal Behavior）**、**双相障碍（Bipolar Disorder）**。
 用途：供 agent 为抑郁、自杀行为和双相障碍的儿童青少年制定CBT干预方案时使用，涵盖评估、核心技术成分和家庭干预策略。
 

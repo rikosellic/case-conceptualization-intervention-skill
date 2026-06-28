@@ -1,6 +1,6 @@
 # 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_13_15_创伤困难与冲突防御
 
-来源：`skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
+来源：`./skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
 
 抽取范围：原书 Part Four LINK，第 13-15 章，**Trauma / Early Cognitive and Emotional Difficulties / Conflict and Defense**。
 

@@ -1,6 +1,6 @@
 # DBT情绪调节手册（下）_index
 
-来源：`skills/DBT情绪调节手册（下） (莱恩汉) (Z-Library)/book/DBT情绪调节手册（下） (莱恩汉) (Z-Library).md`
+来源：`./skills/DBT情绪调节手册（下） (莱恩汉) (Z-Library)/book/DBT情绪调节手册（下） (莱恩汉) (Z-Library).md`
 
 原书：玛莎·M.莱恩汉（Marsha M. Linehan），*DBT情绪调节手册：讲义与练习单*（下册），北京联合出版公司，2022。
 

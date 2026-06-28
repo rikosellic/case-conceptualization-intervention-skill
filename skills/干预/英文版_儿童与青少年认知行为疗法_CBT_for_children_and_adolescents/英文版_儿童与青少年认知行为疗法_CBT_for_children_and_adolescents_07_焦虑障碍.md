@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_07_焦虑障碍
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 抽取范围：第7章，**儿童期焦虑障碍——"应对焦虑的猫"项目（Anxiety Disorders: The Coping Cat Program）**。
 用途：供 agent 为广泛性焦虑障碍、分离焦虑障碍、社交恐惧症的儿童青少年制定CBT干预方案时使用，重点介绍FEAR计划和暴露技术。
 

@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_02_03_发展性与多元文化
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 抽取范围：第2章至第3章，**对儿童期发展性问题的考量（Developmental Considerations）**、**多元文化下的儿童与青少年（Multicultural Children and Adolescents）**。
 用途：供 agent 在制定儿童青少年 CBT 方案时，根据个体发展水平和多元文化背景进行技术调整与适配。
 

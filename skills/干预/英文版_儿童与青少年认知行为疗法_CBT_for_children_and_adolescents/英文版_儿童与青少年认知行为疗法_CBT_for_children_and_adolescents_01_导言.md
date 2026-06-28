@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_01_导言
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 抽取范围：第1章，**认知行为疗法——导言（Cognitive-Behavior Therapy: An Introduction）**。
 用途：作为 agent 理解儿童与青少年 CBT 基础理论、共同原则、核心技术概念的总论材料。
 

@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_index
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 
 原书：Eva Szigethy, John R. Weisz, Robert L. Findling 主编，*Cognitive-Behavior Therapy for Children and Adolescents*（《儿童与青少年认知行为疗法》），中文版由中国轻工业出版社出版。
 

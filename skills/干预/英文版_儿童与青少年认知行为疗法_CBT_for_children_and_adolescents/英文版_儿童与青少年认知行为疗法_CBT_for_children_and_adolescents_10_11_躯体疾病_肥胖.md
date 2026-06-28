@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_10_11_躯体疾病_肥胖
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 抽取范围：第10章至第11章，**慢性躯体疾病——以肠道炎为例（Chronic Medical Illness: IBD）**、**肥胖和抑郁——关注多囊卵巢综合征（Obesity and Depression: PCOS）**。
 用途：供 agent 为伴有慢性躯体疾病（如炎症性肠病）或肥胖/代谢问题的儿童青少年制定CBT干预方案时使用。
 

@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_08_09_PTSD_强迫症
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 抽取范围：第8章至第9章，**儿童创伤后应激障碍（PTSD）**、**强迫症（OCD）**。
 用途：供 agent 为遭受创伤或患有强迫症的儿童青少年制定CBT干预方案时使用，涵盖TF-CBT、CBITS和ERP等核心技术。
 

@@ -1,6 +1,6 @@
 # DSM-5_SecI_基础与使用指南
 
-来源：`skills/DSM5中文版/book/DSM5中文版.md`
+来源：`./skills/DSM5中文版/book/DSM5中文版.md`
 抽取范围：第一部分（第1-24页），**DSM-5 Introduction, Use of the Manual, Cautionary Statement for Forensic Use**。
 用途：提供 DSM-5 的使用方法、精神障碍的定义、诊断要素和司法使用注意事项的框架性知识。
 

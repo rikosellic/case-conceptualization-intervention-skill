@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_12_13_行为与排泄障碍
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 抽取范围：第12章至第13章，**破坏性行为障碍（Disruptive Behavior Disorders）**、**遗尿和大便失禁（Enuresis and Encopresis）**。
 用途：供 agent 为破坏性行为障碍（对立违抗障碍、品行障碍）和排泄障碍（遗尿、大便失禁）的儿童青少年制定CBT干预方案时使用。
 

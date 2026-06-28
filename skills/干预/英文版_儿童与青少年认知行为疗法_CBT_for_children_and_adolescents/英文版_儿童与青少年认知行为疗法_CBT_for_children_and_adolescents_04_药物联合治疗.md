@@ -1,6 +1,6 @@
 # 英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents_04_药物联合治疗
 
-来源：`skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
+来源：`./skills/干预/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents/book/英文版_儿童与青少年认知行为疗法_CBT_for_children_and_adolescents.md`
 抽取范围：第4章，**认知行为治疗和精神药理学的结合（CBT and Psychopharmacology）**。
 用途：供 agent 在临床决策中判断何时使用CBT单一治疗、药物治疗或联合治疗，以及如何根据患者因素、系统因素和执业者因素进行个性化选择。
 

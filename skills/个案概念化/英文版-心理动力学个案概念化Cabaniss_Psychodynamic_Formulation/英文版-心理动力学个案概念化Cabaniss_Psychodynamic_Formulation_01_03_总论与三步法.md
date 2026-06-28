@@ -1,6 +1,6 @@
 # 英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation_01_03_总论与三步法
 
-来源：`skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
+来源：`./skills/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation/book/英文版-心理动力学个案概念化Cabaniss_Psychodynamic_Formulation.md`
 
 抽取范围：原书 Part One，第 1-3 章，**What is a Psychodynamic Formulation? / How do We Use Psychodynamic Formulations? / How do We Construct a Psychodynamic Formulation?**
 

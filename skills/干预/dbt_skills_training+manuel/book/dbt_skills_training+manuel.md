@@ -2041,7 +2041,7 @@ How effective was the skill in helping you cope with the situation (keeping you 
 
  Publicly announce I’ve embraced abstinence and effective behavior. plan for harm reDucTion If I have a slip, I don’t want the slip to turn into a slide. To avoid a slide, I must have plans to regain my balance and get back to abstinence and effectiveness.  Call my therapist, sponsor, or mentor for skills coaching. His or her number is:  Get in contact with other effective people who can help (e.g., friends or family, people from group). These people include (with contact information):
 
- Get rid of the temptations (e.g., drugs, comfort food); surround myself with cues for effective behaviors (e.g., workout clothes, fruit).  Review skills and handouts from DBT. The most helpful skills/handouts for me are:
+ Get rid of the temptations (e.g., drugs, comfort food); surround myself with cues for effective behaviors (e.g., workout clothes, fruit).  Review skills and handouts from DBT. The most helpful ./skills/handouts for me are:
 
  Opposite action (Emotion Regulation Handout 10) can be rehearsed to fight guilt and shame. If no other option works, go to an anonymous meeting of any sort and publicly report your lapse.  Building mastery and coping ahead for emotional situations (Emotion Regulation Handout 19), and checking the facts (Emotion Regulation Handout 8), can be used to fight feelings of being out of control. (continued on next page)
 
