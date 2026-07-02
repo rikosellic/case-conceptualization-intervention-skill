@@ -1,8 +1,8 @@
 # 英文版-心理动力学疗法Psychodynamic Psychotherapy A clinical manual_19_24
 
-来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`（第二版，2017）
+来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`
 抽取范围：Part 5，第 19-24 章，**Conducting a Psychodynamic Psychotherapy: Technique**。
-用途：为 agent 提供心理动力学治疗核心技术——情感、自由联想与阻抗、移情、反移情、无意识冲突与防御（含第二版新增情结 complexes 概念）、梦——的听/反思/干预方法。Part 5 复习活动在第二版中被正式命名为"**Microprocess Moment**"。
+用途：为 agent 提供心理动力学治疗核心技术——情感、自由联想与阻抗、移情、反移情、无意识冲突与防御（含情结 complexes 概念）、梦——的听/反思/干预方法。Part 5 复习活动正式名称为"**Microprocess Moment**"。
 
 ---
 
@@ -202,9 +202,9 @@
 
 ---
 
-## Part 5 复习活动：The "Microprocess Moment"（第二版正式命名）
+## Part 5 复习活动：The "Microprocess Moment"
 
-第二版将 Part 5 复习活动正式命名为 **"Microprocess Moment"——理解治疗中的一个时刻**（源自 Cabaniss 等 2015 年 *Academic Psychiatry* 论文）。第二版附录 2 提供了正式的 Microprocess Moment 评估模板。
+Part 5 复习活动被命名为 **"Microprocess Moment"——理解治疗中的一个时刻**（源自 Cabaniss 等 2015 年 *Academic Psychiatry* 论文）。附录 2 提供了正式的 Microprocess Moment 评估模板。
 
 任何治疗时刻的关键分析框架——识别：
 1. **主导情感（dominant affect）**
@@ -216,15 +216,14 @@
 
 临床示例：**Mr B**（35 岁非裔美国律师，白人女性治疗师，治疗 3 年）——不想来、详细讨论案子、治疗师感到无聊 → 面质阻抗 → 来访者提到与白人同事的竞争和关于治疗师夜班工作的内疚诱导性移情。分析：情感=愤怒，阻抗=回避，移情=嫉妒/母性/情欲，反移情=内疚，无意识幻想="作为黑人男性我总会被白人男性超越"，模式=揭蔽。
 
-### 第二版新增：Macroprocess Summary
+### Macroprocess Summary
 
-第二版在 Part 6 和 Part 7 之后新增了 **Macroprocess Summary**——一个完整的 10 页案例记录（Dr. Y 对 Ms. B 的两年治疗），展示从评估到结束的全过程变化，配合宏观过程总结练习。与 Microprocess Moment（关注单一时刻）形成互补——理解治疗中改变如何随时间发生。
+Part 6 和 Part 7 之后附有 **Macroprocess Summary**——一个完整的案例记录（Dr. Y 对 Ms. B 的两年治疗），展示从评估到结束的全过程变化，配合宏观过程总结练习。与 Microprocess Moment（关注单一时刻）形成互补——理解治疗中改变如何随时间发生。
 
 ### Agent 使用建议
 
 - **适用场景**：当 agent 需要处理心理动力学治疗的核心技术主题——包括识别和处理情感、阻抗、移情、反移情、无意识冲突/防御（含情结 complexes）和梦时。
 - **可直接引用**：每项技术的听/反思/干预三步法框架；移情类型分类；反移情的一致性/互补性区分；无意识冲突的模型；梦的工作机制（凝缩/置换/象征化）；Microprocess Moment 六维度分析框架。
-- **版本注意**：本章已按第二版更新。Part 5 复习活动正式命名为 Microprocess Moment。第 23 章新增了情结（complexes）的独立小节。
 - **需要结合**：`_16_18.md` 的基础/支持/揭蔽三级干预技术树——每项核心技术的具体干预都依赖于这些基础干预方法；`_03_06.md`中的功能领域评估——决定使用支持还是揭蔽技术的依据。
 - **注意**：移情解释是最有力的揭蔽工具，但也需要最高的功能水平和最牢固的治疗联盟。过早或过深的移情解释可能造成伤害。
 

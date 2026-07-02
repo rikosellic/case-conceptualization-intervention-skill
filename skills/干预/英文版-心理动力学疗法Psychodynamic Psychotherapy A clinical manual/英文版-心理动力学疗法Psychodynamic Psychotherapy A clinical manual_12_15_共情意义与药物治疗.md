@@ -1,6 +1,6 @@
 # 英文版-心理动力学疗法Psychodynamic Psychotherapy A clinical manual_12_15
 
-来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`（第二版，2017）
+来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`
 抽取范围：Part 3，第 12-15 章，**Beginning the Treatment**（下）。
 用途：为 agent 提供治疗开始阶段的另一组核心能力——识别和利用来访者与治疗师的情感反应（含移情与反移情预览）、共情倾听技术、从心理动力学角度寻找意义、以及处理药物与治疗的关系。
 
@@ -175,5 +175,4 @@
 - **适用场景**：当 agent 需要处理治疗早期出现的来访者情感反应、练习共情倾听技术、识别行为和语言中的无意识含义、或处理药物与心理治疗的关系时。
 - **可直接引用**：共情倾听技术清单、寻找无意识意义的三种线索、常见行为的潜在意义列表、药物心理意义的分类。
 - **需要结合**：`_07_11.md`中已建立的框架和联盟——只有安全的关系才能支持对无意识含义的探索；`_16_18.md`中的听/反思/干预方法是寻找意义的技术化延伸。
-- **版本注意**：本章已按第二版更新源引用。第 12 章在第二版中增加了"Preview – Transference and Countertransference"作为 Part 5 的过渡。
 - **注意**：第 14 章强调不是所有意义都需要被讨论——这是"反思"阶段的重要判断。过早揭蔽可能损害脆弱来访者。

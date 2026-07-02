@@ -1,10 +1,10 @@
 # 英文版-心理动力学疗法Psychodynamic Psychotherapy A clinical manual_index
 
-来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`（第二版，2017）
+来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`
 原书：Deborah L. Cabaniss, Sabrina Cherry, Carolyn J. Douglas & Anna R. Schwartz, *Psychodynamic Psychotherapy: A Clinical Manual*, Second Edition (2017). 
 用途：供 agent 使用中文快速查询心理动力学治疗的操作框架——从评估到结束的全过程技术。提取内容为结构化笔记，保留关键英文术语，便于 agent 在个案概念化和干预方案生成时直接调用。
 
-说明：以第二版（2017）为准，融合第一版（2011）的已有提取基础。第二版重大变化包括：共同因素（common factors）作为治疗行动理论、自我功能重组为五大功能领域（domains of function）、个案概念化模型从 PPGR 改为 Describe/Review/Link、"终止（termination）"改为"结束（ending）"、新增 PEPPER 患者教育资源和教育者指南等。原书共 31 章，分为 7 个部分。提取后按内容密度和主题关联拆分为 8 个结构化文件。
+原书共 31 章，分为 7 个部分。提取后按内容密度和主题关联拆分为 8 个结构化文件。每个文件均包含"章节主线"帮助快速定位核心论点，以及"Agent 使用建议"说明适用场景。
 
 ---
 
@@ -129,5 +129,5 @@
 - **适用场景**：当 agent 需要系统性引用心理动力学治疗的操作框架——从评估个案概念化、选择技术、到管理治疗全过程的任何环节时。
 - **可直接引用**：各文件中的定义、分类表、技术清单、干预示例。
 - **需要结合**：`skills/诊断/` 目录下的 DSM-5 和 ICD-11 诊断标准，用于评估阶段的问题识别；`skills/干预/` 目录下的其他干预手册，用于跨流派技术整合。
-- **版本说明**：本系列文件以第二版（2017）为准。第二版核心更新包括：共同因素作为第四种治疗行动理论、五大功能领域取代 11 项自我功能、Describe/Review/Link 概念化方法、"结束（ending）"取代"终止（termination）"、新增 PEPPER 患者教育资源和教育者指南、神经科学更新（表观遗传学 neuroplasticity）、心智化（mentalization）等新概念。
+
 - **注意**：本书为心理动力学治疗的临床操作手册，强调"怎么做"而非"为什么理论"。理论基础部分集中在 `_01_02.md` 中。所有干预选择都应基于 `_03_06.md` 中的功能领域评估，而不是默认为揭蔽模式。

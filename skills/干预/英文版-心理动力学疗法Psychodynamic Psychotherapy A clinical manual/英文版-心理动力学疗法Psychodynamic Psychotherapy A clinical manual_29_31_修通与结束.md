@@ -1,8 +1,8 @@
 # 英文版-心理动力学疗法Psychodynamic Psychotherapy A clinical manual_29_31
 
-来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`（第二版，2017）
+来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`
 抽取范围：Part 7，第 29-31 章，**Working Through and Ending**。
-用途：为 agent 提供心理动力学治疗的结束阶段框架——修通的过程与技术、结束（ending，第二版将"termination"更名为"ending"）阶段的判断与操作（含"编排最后几次会谈"和"结束与支持"的新增内容）、以及治疗师持续学习的方向（含 Microprocess Moment 和 Macroprocess Summary）。
+用途：为 agent 提供心理动力学治疗的结束阶段框架——修通的过程与技术、结束（ending）阶段的判断与操作、以及治疗师持续学习的方向。
 
 ---
 
@@ -47,14 +47,14 @@
 
 ---
 
-## 第 30 章：Ending（第二版：从"Termination"更名为"Ending"）
+## 第 30 章：Ending
 
 ### 章节主线
 
-- **结束（ending）** = 治疗的最后阶段，涉及结束治疗、巩固目标、回顾治疗、现实评估改变和未来改变的可能性、告别。第二版作者在前言中指出"即使'终止（termination）'这个不祥的词也消失了"。
+- **结束（ending）** = 治疗的最后阶段，涉及结束治疗、巩固目标、回顾治疗、现实评估改变和未来改变的可能性、告别。
 - 结束阶段的时间应与治疗时长成比例（如 7 年治疗 → 约 1 年结束期；1 年治疗 → 约 2 个月结束期）。
 - 结束时的典型现象：退行、哀悼、接受限制、寻找替代关系。
-- **第二版新增**："编排最后几次会谈（Choreographing the Last Sessions）"、"沟通你对治疗的思考（Communicating Your Thoughts about the Treatment）"、以及"结束与支持（Ending and Supporting）"——针对无法耐受探索丧失的来访者的专门讨论。
+- 结束期工作包括：**编排最后几次会谈（Choreographing the Last Sessions）**、**沟通你对治疗的思考（Communicating Your Thoughts about the Treatment）**、以及针对无法耐受探索丧失的来访者的**结束与支持（Ending and Supporting）**策略。
 
 ### 何时可以结束
 
@@ -107,14 +107,13 @@
 
 - 学习持续进行——通过督导、来访者、和自己。
 - "你的来访者是你最好的督导。"如果干预太深，来访者会通过防御来回应——用此来重新校准。
-- **第二版更新**：引入了 Describe/Review/Link 用于概念化、Listen/Reflect/Intervene 用于技术分析、Microprocess Moment 和 Macroprocess Summary 用于过程回顾。新增了更具体的督导对话示例。
+- 持续学习的工具包括：Describe/Review/Link 用于构建个案概念化、Listen/Reflect/Intervene 用于分析技术选择、Microprocess Moment 和 Macroprocess Summary 用于系统性回顾治疗过程。
 
 ### 向督导学习
 
 - 听/反思/干预模式也适用于督导。
 - 协作式的督导模型最有帮助。
 - 受督导者可以问的问题："你听到了什么？""你会如何处理？""你会如何选择说什么？"
-- **第二版新增工具**：Describe/Review/Link 用于在督导中构建个案概念化；Listen/Reflect/Intervene 用于分析具体技术选择；Microprocess Moment 和 Macroprocess Summary 用于系统性回顾治疗过程。
 
 > **督导案例**：40岁女性治疗师治疗28岁男性已两年，最近几周不再期待他的会谈。"有趣——我通常很享受和这个来访者工作，但最近几周我没有那种感觉。有一次我甚至想，'哦不，周一了——Mr A今天要来。'""这是很好的讨论话题。你有感觉到他生活或治疗中发生了什么吗？""没有——那才是奇怪的地方——他实际上在治疗中工作得更深、感觉更连接。这正是我们一直在努力的。"……（阅读过程记录后）——"来访者几乎屏息地告诉你他想要你给予很多——他准备比喻性地说'搬进来'——而你也许在退缩。""嗯，你知道，我自己有两个孩子——我不需要再有一个！"——"正是——我们正在接近你最近的困难，同时也学到了很多关于来访者的东西。"
 
@@ -147,5 +146,4 @@
 - **适用场景**：当 agent 需要处理治疗的结束阶段——包括判断何时适合结束、管理结束过程中的典型现象（退行、哀悼）、编排最后几次会谈、以及持续学习的方向。
 - **可直接引用**：修通三阶段特征对照表、结束的指征判断标准、结束期典型现象列表、结束期技术调整要点（编排最后会谈、沟通治疗思考、结束与支持）。
 - **需要结合**：`_19_24.md`中的移情/反移情章节——结束期移情模式重现是工作重点；`_25_28.md`中的治疗目标——结束的判断依据是目标的达成程度。Microprocess Moment 和 Macroprocess Summary 可用于系统回顾。
-- **版本注意**：本章已按第二版更新。"结束（ending）"取代"终止（termination）"。新增了编排最后会谈、沟通治疗思考、结束与支持等内容，以及 Describe/Review/Link 等督导工具。
 - **注意**：结束期技术的关键调整——在中立性和解释深度上适当放松，焦点转向巩固和告别。同一句话在中期和结束期可能有完全不同的解读方向。对于无法耐受探索丧失的来访者，采用支持性结束策略。

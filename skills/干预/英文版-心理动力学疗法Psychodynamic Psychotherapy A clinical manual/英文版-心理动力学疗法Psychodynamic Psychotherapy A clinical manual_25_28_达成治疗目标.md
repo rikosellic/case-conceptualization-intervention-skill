@@ -1,8 +1,8 @@
 # 英文版-心理动力学疗法Psychodynamic Psychotherapy A clinical manual_25_28
 
-来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`（第二版，2017）
+来源：`book/英文版心理动力学疗法2editionPsychodynamic Psychotherapy_extracted.md`
 抽取范围：Part 6，第 25-28 章，**Meeting Therapeutic Goals**。
-用途：为 agent 提供如何通过心理动力学技术实现治疗目标的框架——改善自我感知与自尊调节、改善人际关系、改善压力适应（第 27 章标题从"Characteristic Ways of Adapting"改为"Adapting to Stress"）、改善认知功能（第 28 章从"Other Ego Functions"改为"Cognitive Function"）。第二版每一章新增"目标（The Goal）→识别问题（Recognizing the Problem）→治疗策略（Therapeutic Strategies）"的标准化结构。
+用途：为 agent 提供如何通过心理动力学技术实现治疗目标的框架——改善自我感知与自尊调节、改善人际关系、改善压力适应（Adapting to Stress）、改善认知功能（Cognitive Function）。每章按"目标→识别问题→治疗策略"结构组织。
 
 ---
 
@@ -147,5 +147,4 @@
 - **适用场景**：当 agent 需要将心理动力学技术综合应用于特定的治疗目标——改善自我感知与自尊调节、改善人际关系、改善压力适应（应对机制）、改善认知功能时。
 - **可直接引用**：冲突 vs. 缺陷判断框架（用于决定揭蔽还是支持）、每个目标领域的目标→识别问题→治疗策略的三步结构。
 - **需要结合**：`_19_24.md`中的核心技术与本章中的目标领域对应——如移情解释用于改善人际关系（第 21 章 + 第 26 章）；`_03_06.md`中的功能领域评估用于识别需要改善的具体领域。
-- **版本注意**：本章已按第二版更新。第 27 章标题从"Characteristic Ways of Adapting"改为"Adapting to Stress"；第 28 章从"Other Ego Functions"改为"Cognitive Function"；每章新增"目标→识别问题→治疗策略"标准化结构。
 - **注意**：第 28 章特别强调"冲突 vs. 缺陷"的区分——同样的行为表现（如现实检验受损）可能源于无意识冲突（适合揭蔽）或功能缺陷（适合支持），错误的判断可能导致干预失效或伤害。
